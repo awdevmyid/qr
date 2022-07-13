@@ -243,9 +243,6 @@ AWDEV DEVOLOPER
 </google-sheets-html-origin>  
 </span>
 
-#### <span style="font-size: large;">Pindai Kode QR</span>
-
-<span style="font-size: large;"></span></div>
 
 
 # PORTFOLIO
