@@ -1,8 +1,12 @@
 # QR
-
+👨‍💻
 Free Online QR Code Generator to make your own QR Codes. Supports Dynamic Codes, Tracking, Analytics, Free text, vCards and more.
+view URL : [https://awdev-corporation.github.io/qr/](https://awdev-corporation.github.io/qr/)
 
-Oppen Source Code QR  
+
+⭐QR©️[Get Started](https://awdev-corporation.github.io/)
+
+### Oppen Source Code QR  
 
 - [https://awdev-corporation.github.io/qr/](https://awdev-corporation.github.io/)
 
@@ -11,6 +15,8 @@ Oppen Source Code QR
 - [https://awdev-corporation.github.io/qr/v2](https://awdev-corporation.github.io/qr/v2)
 
 - [https://awdev-corporation.github.io/qr/v3](https://awdev-corporation.github.io/qr/v3)
+
+- [https://awdev-corporation.github.io/qr/v4](https://awdev-corporation.github.io/qr/v4)
 
 - [Documentasi Publication](https://www.awdev.eu.org/2022/06/qr.html)
 
