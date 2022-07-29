@@ -1,0 +1,36 @@
+{
+	"name": "qr",
+	"version": "1.0.0",
+	"description": "Free Online QR Code Generator to make your own QR Codes - Awdev Corporation. Supports Dynamic Codes, Tracking, Analytics, Free text, vCards and more. ",
+	"homepage": "https://github.com/awdev-corporation/qr",
+	"website": "https://qr.awdev.my.id/index.html",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"QR Code Generator",
+		"Awdev Qr",
+		"QR",
+		"WEB QR AWDEV",
+		"LINK QR",
+		"WA QR",
+		"DEV QR",
+		"AWDEV",
+		"QR AW",
+		"QR CODE",
+		"QRIS",
+		"QR VERSION"
+	],
+	"author": "awdev (https://www.awdev.my.id)",
+	"url": "https://awdev-corporation.github.io/qr/",
+	"Github CLI": "gh repo clone awdev-corporation/qr",
+	"repository": "https://github.com/awdev-corporation/qr.git",
+	"ssh": "git@github.com:awdev-corporation/qr.git",
+	"favicon": "https://www.awdev.my.id/thema/arsha/assets/img/favicon.png",
+	"license": "Creative Commons Zero v1.0 Universal",
+	"dependencies": {
+		"express": "^1.1.0",
+		"jsonwebtoken": "^1.1.1"
+	}
+}
